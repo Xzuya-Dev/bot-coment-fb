@@ -9,7 +9,7 @@ npm install axios
 
 git clone https://github.com/Xzuya-Dev/bot-coment-fb
 
-cd coment-fb
+cd bot-coment-fb
 
 node start.js
 ```
