@@ -12,3 +12,6 @@ git clone https://github.com/Xzuya-Dev/bot-coment-fb
 cd coment-fb
 
 node start.js
+```
+### View Count Repository
+![](https://komarev.com/ghpvc/?username=Xzuya-Dev&label=Views)
